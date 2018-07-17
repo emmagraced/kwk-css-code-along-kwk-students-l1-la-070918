@@ -1,1 +1,18 @@
 /* add CSS class and element and selectors here */
+ body {
+      background-color: #E3DCE8;
+      font-size: 150%;
+    }
+    
+    h1{
+      color: #F6FBFF;
+    }
+    h2{ color:#B9C2D6;}
+    .info-section {
+      font-size: 95%;
+      font-family: 'Cedarville Cursive', cursive;
+      border: 1px dotted blue;
+    }
+    #title-section {
+      color: purple;
+    }
